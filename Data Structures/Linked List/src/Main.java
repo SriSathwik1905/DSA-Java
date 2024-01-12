@@ -7,6 +7,7 @@ public class Main {
         myLinkedList.append(5);
         myLinkedList.append(6);
         myLinkedList.append(7);
+        myLinkedList.prepend(8);
 
         // Prepend a value to the linked list
         myLinkedList.prepend(3);
